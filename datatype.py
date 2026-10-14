@@ -1,0 +1,16 @@
+#integer
+print(9);
+#float
+print(8.2);
+#string
+print('singh');
+#complex
+print(2+1j);
+#list
+print([1,2,3,4,5]);
+#tuples
+print((1,2,3,4,5));
+#sets
+print({1,2,3,4,5});
+#dictionary
+print({"name":"goldi","age":20,"hobby":"dance"});

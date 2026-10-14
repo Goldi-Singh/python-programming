@@ -1,0 +1,15 @@
+#binary 
+a=0b1010;
+#decimal
+b=100;
+#octal
+c=0o310;
+#hexa
+d=0x12e;
+print(a,b,c,d);
+a=b=c=6;
+print(a,b,c);
+a,b,c,d=1,2,3,4;
+print(a,b,c,d);
+a=5;b=6;c=2;
+print(a,b,c);
